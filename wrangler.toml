@@ -3,5 +3,5 @@ main = "index.js"
 compatibility_date = "2024-01-01"
 
 kv_namespaces = [
-  { binding = "STORE", id = "2f43f3dd26411d0b7f6dc7582756f6e7" }
+  { binding = "STORE", id = "fe0175c710ea416b93ccacab7435226f " }
 ]
